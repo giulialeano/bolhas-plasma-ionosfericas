@@ -1,0 +1,79 @@
+============================================================
+RELATÓRIO DE EVENTOS CONSOLIDADOS - 13/10/2023
+============================================================
+Arquivos processados: 2
+Constelações: BDS, GAL, GPS, GLO
+Total de eventos: 9
+
+Evento #1
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.36 TECU
+  S4: 0.342
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #2
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.36 TECU
+  S4: 0.342
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #3
+  Constelação: GAL
+  Horário: 22.5h
+  VTEC: 13.36 TECU
+  S4: 0.277
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #4
+  Constelação: GAL
+  Horário: 22.5h
+  VTEC: 13.36 TECU
+  S4: 0.275
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #5
+  Constelação: GAL
+  Horário: 22.5h
+  VTEC: 13.36 TECU
+  S4: 0.251
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #6
+  Constelação: GAL
+  Horário: 22.6h
+  VTEC: 13.36 TECU
+  S4: 0.282
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #7
+  Constelação: GAL
+  Horário: 22.6h
+  VTEC: 13.36 TECU
+  S4: 0.275
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #8
+  Constelação: GAL
+  Horário: 22.6h
+  VTEC: 13.36 TECU
+  S4: 0.251
+  Queda: 26.7%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------
+Evento #9
+  Constelação: GAL
+  Horário: 22.7h
+  VTEC: 13.58 TECU
+  S4: 0.297
+  Queda: 25.4%
+  VTEC Médio Diário: 18.21 TECU
+----------------------------------------

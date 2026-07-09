@@ -1,0 +1,703 @@
+============================================================
+RELATÓRIO DE EVENTOS CONSOLIDADOS - 15/10/2023
+============================================================
+Arquivos processados: 1
+Constelações: BDS, GAL, GLO, GPS
+Total de eventos: 87
+
+Evento #1
+  Constelação: GAL
+  Horário: 21.4h
+  VTEC: 15.46 TECU
+  S4: 0.229
+  Queda: 25.2%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #2
+  Constelação: GAL
+  Horário: 21.4h
+  VTEC: 14.84 TECU
+  S4: 0.229
+  Queda: 28.2%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #3
+  Constelação: GAL
+  Horário: 21.4h
+  VTEC: 14.27 TECU
+  S4: 0.229
+  Queda: 30.9%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #4
+  Constelação: GAL
+  Horário: 21.4h
+  VTEC: 14.33 TECU
+  S4: 0.229
+  Queda: 30.7%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #5
+  Constelação: GAL
+  Horário: 21.4h
+  VTEC: 14.40 TECU
+  S4: 0.229
+  Queda: 30.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #6
+  Constelação: GAL
+  Horário: 21.5h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #7
+  Constelação: GAL
+  Horário: 21.5h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #8
+  Constelação: GAL
+  Horário: 21.5h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #9
+  Constelação: GAL
+  Horário: 21.5h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #10
+  Constelação: GAL
+  Horário: 21.5h
+  VTEC: 14.03 TECU
+  S4: 0.214
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #11
+  Constelação: GAL
+  Horário: 21.6h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #12
+  Constelação: GAL
+  Horário: 21.6h
+  VTEC: 14.03 TECU
+  S4: 0.214
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #13
+  Constelação: GAL
+  Horário: 21.6h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #14
+  Constelação: GAL
+  Horário: 21.6h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #15
+  Constelação: GAL
+  Horário: 21.6h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #16
+  Constelação: GAL
+  Horário: 21.6h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #17
+  Constelação: GAL
+  Horário: 21.7h
+  VTEC: 14.03 TECU
+  S4: 0.229
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #18
+  Constelação: GAL
+  Horário: 21.7h
+  VTEC: 14.22 TECU
+  S4: 0.239
+  Queda: 31.2%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #19
+  Constelação: GAL
+  Horário: 21.7h
+  VTEC: 14.03 TECU
+  S4: 0.239
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #20
+  Constelação: GAL
+  Horário: 21.7h
+  VTEC: 14.09 TECU
+  S4: 0.239
+  Queda: 31.8%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #21
+  Constelação: GAL
+  Horário: 21.7h
+  VTEC: 14.58 TECU
+  S4: 0.265
+  Queda: 29.4%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #22
+  Constelação: GAL
+  Horário: 21.8h
+  VTEC: 14.46 TECU
+  S4: 0.293
+  Queda: 30.0%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #23
+  Constelação: GAL
+  Horário: 21.8h
+  VTEC: 14.47 TECU
+  S4: 0.239
+  Queda: 29.9%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #24
+  Constelação: GAL
+  Horário: 21.8h
+  VTEC: 14.50 TECU
+  S4: 0.241
+  Queda: 29.8%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #25
+  Constelação: GAL
+  Horário: 21.8h
+  VTEC: 15.36 TECU
+  S4: 0.260
+  Queda: 25.7%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #26
+  Constelação: GAL
+  Horário: 21.8h
+  VTEC: 15.30 TECU
+  S4: 0.253
+  Queda: 25.9%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #27
+  Constelação: GAL
+  Horário: 21.9h
+  VTEC: 14.03 TECU
+  S4: 0.240
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #28
+  Constelação: GAL
+  Horário: 21.9h
+  VTEC: 14.03 TECU
+  S4: 0.239
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #29
+  Constelação: GAL
+  Horário: 21.9h
+  VTEC: 14.03 TECU
+  S4: 0.241
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #30
+  Constelação: GAL
+  Horário: 21.9h
+  VTEC: 15.30 TECU
+  S4: 0.293
+  Queda: 25.9%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #31
+  Constelação: GAL
+  Horário: 21.9h
+  VTEC: 14.29 TECU
+  S4: 0.241
+  Queda: 30.8%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #32
+  Constelação: GAL
+  Horário: 21.9h
+  VTEC: 14.03 TECU
+  S4: 0.239
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #33
+  Constelação: GAL
+  Horário: 22.0h
+  VTEC: 14.42 TECU
+  S4: 0.239
+  Queda: 30.2%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #34
+  Constelação: GAL
+  Horário: 22.0h
+  VTEC: 14.03 TECU
+  S4: 0.239
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #35
+  Constelação: GAL
+  Horário: 22.0h
+  VTEC: 14.03 TECU
+  S4: 0.239
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #36
+  Constelação: GAL
+  Horário: 22.0h
+  VTEC: 14.03 TECU
+  S4: 0.239
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #37
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 14.03 TECU
+  S4: 0.241
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #38
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 14.03 TECU
+  S4: 0.241
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #39
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 14.03 TECU
+  S4: 0.268
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #40
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 14.65 TECU
+  S4: 0.241
+  Queda: 29.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #41
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 14.23 TECU
+  S4: 0.241
+  Queda: 31.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #42
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 14.26 TECU
+  S4: 0.252
+  Queda: 31.0%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #43
+  Constelação: GAL
+  Horário: 22.1h
+  VTEC: 13.89 TECU
+  S4: 0.241
+  Queda: 32.8%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #44
+  Constelação: GAL
+  Horário: 22.2h
+  VTEC: 13.78 TECU
+  S4: 0.239
+  Queda: 33.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #45
+  Constelação: GAL
+  Horário: 22.2h
+  VTEC: 13.78 TECU
+  S4: 0.241
+  Queda: 33.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #46
+  Constelação: GAL
+  Horário: 22.2h
+  VTEC: 14.01 TECU
+  S4: 0.293
+  Queda: 32.2%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #47
+  Constelação: GAL
+  Horário: 22.2h
+  VTEC: 14.03 TECU
+  S4: 0.241
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #48
+  Constelação: GAL
+  Horário: 22.2h
+  VTEC: 14.03 TECU
+  S4: 0.247
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #49
+  Constelação: GAL
+  Horário: 22.2h
+  VTEC: 14.03 TECU
+  S4: 0.241
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #50
+  Constelação: GAL
+  Horário: 22.3h
+  VTEC: 14.03 TECU
+  S4: 0.280
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #51
+  Constelação: GAL
+  Horário: 22.3h
+  VTEC: 14.03 TECU
+  S4: 0.325
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #52
+  Constelação: GAL
+  Horário: 22.3h
+  VTEC: 14.03 TECU
+  S4: 0.328
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #53
+  Constelação: GAL
+  Horário: 22.3h
+  VTEC: 14.03 TECU
+  S4: 0.349
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #54
+  Constelação: GAL
+  Horário: 22.3h
+  VTEC: 14.03 TECU
+  S4: 0.293
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #55
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 14.03 TECU
+  S4: 0.346
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #56
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 14.03 TECU
+  S4: 0.345
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #57
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.78 TECU
+  S4: 0.293
+  Queda: 33.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #58
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.78 TECU
+  S4: 0.308
+  Queda: 33.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #59
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.75 TECU
+  S4: 0.270
+  Queda: 33.4%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #60
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.78 TECU
+  S4: 0.312
+  Queda: 33.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #61
+  Constelação: GAL
+  Horário: 22.4h
+  VTEC: 13.78 TECU
+  S4: 0.356
+  Queda: 33.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #62
+  Constelação: GAL
+  Horário: 22.5h
+  VTEC: 14.03 TECU
+  S4: 0.310
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #63
+  Constelação: GAL
+  Horário: 22.5h
+  VTEC: 14.03 TECU
+  S4: 0.368
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #64
+  Constelação: GAL
+  Horário: 23.0h
+  VTEC: 14.03 TECU
+  S4: 0.354
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #65
+  Constelação: GAL
+  Horário: 23.0h
+  VTEC: 14.03 TECU
+  S4: 0.293
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #66
+  Constelação: GAL
+  Horário: 23.0h
+  VTEC: 14.03 TECU
+  S4: 0.293
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #67
+  Constelação: GAL
+  Horário: 23.0h
+  VTEC: 14.20 TECU
+  S4: 0.293
+  Queda: 31.2%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #68
+  Constelação: GAL
+  Horário: 23.0h
+  VTEC: 14.14 TECU
+  S4: 0.293
+  Queda: 31.6%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #69
+  Constelação: GAL
+  Horário: 23.2h
+  VTEC: 14.51 TECU
+  S4: 0.293
+  Queda: 29.8%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #70
+  Constelação: GAL
+  Horário: 23.2h
+  VTEC: 14.33 TECU
+  S4: 0.293
+  Queda: 30.6%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #71
+  Constelação: GAL
+  Horário: 23.2h
+  VTEC: 14.03 TECU
+  S4: 0.241
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #72
+  Constelação: GAL
+  Horário: 23.2h
+  VTEC: 14.03 TECU
+  S4: 0.268
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #73
+  Constelação: GAL
+  Horário: 23.3h
+  VTEC: 14.03 TECU
+  S4: 0.265
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #74
+  Constelação: GAL
+  Horário: 23.3h
+  VTEC: 15.03 TECU
+  S4: 0.258
+  Queda: 27.3%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #75
+  Constelação: GAL
+  Horário: 23.4h
+  VTEC: 14.03 TECU
+  S4: 0.293
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #76
+  Constelação: GAL
+  Horário: 23.4h
+  VTEC: 14.03 TECU
+  S4: 0.293
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #77
+  Constelação: GAL
+  Horário: 23.5h
+  VTEC: 14.03 TECU
+  S4: 0.286
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #78
+  Constelação: GAL
+  Horário: 23.8h
+  VTEC: 14.56 TECU
+  S4: 0.281
+  Queda: 29.5%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #79
+  Constelação: GAL
+  Horário: 23.8h
+  VTEC: 14.03 TECU
+  S4: 0.293
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #80
+  Constelação: GAL
+  Horário: 23.9h
+  VTEC: 14.03 TECU
+  S4: 0.371
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #81
+  Constelação: GAL
+  Horário: 23.9h
+  VTEC: 14.03 TECU
+  S4: 0.286
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #82
+  Constelação: GAL
+  Horário: 23.9h
+  VTEC: 14.03 TECU
+  S4: 0.276
+  Queda: 32.1%
+  VTEC Médio Diário: 20.66 TECU
+----------------------------------------
+Evento #83
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 15.47 TECU
+  S4: 0.243
+  Queda: 29.8%
+  VTEC Médio Diário: 22.05 TECU
+----------------------------------------
+Evento #84
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 15.50 TECU
+  S4: 0.225
+  Queda: 29.7%
+  VTEC Médio Diário: 22.05 TECU
+----------------------------------------
+Evento #85
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 15.49 TECU
+  S4: 0.225
+  Queda: 29.8%
+  VTEC Médio Diário: 22.05 TECU
+----------------------------------------
+Evento #86
+  Constelação: GPS
+  Horário: 24.0h
+  VTEC: 15.74 TECU
+  S4: 0.223
+  Queda: 28.6%
+  VTEC Médio Diário: 22.05 TECU
+----------------------------------------
+Evento #87
+  Constelação: GPS
+  Horário: 0.0h
+  VTEC: 15.64 TECU
+  S4: 0.223
+  Queda: 29.1%
+  VTEC Médio Diário: 22.05 TECU
+----------------------------------------

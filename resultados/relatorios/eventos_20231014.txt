@@ -1,0 +1,135 @@
+============================================================
+RELATÓRIO DE EVENTOS CONSOLIDADOS - 14/10/2023
+============================================================
+Arquivos processados: 2
+Constelações: BDS, GAL, GPS, GLO
+Total de eventos: 16
+
+Evento #1
+  Constelação: GPS
+  Horário: 20.1h
+  VTEC: 14.46 TECU
+  S4: 0.222
+  Queda: 26.4%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #2
+  Constelação: GPS
+  Horário: 20.1h
+  VTEC: 14.25 TECU
+  S4: 0.243
+  Queda: 27.4%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #3
+  Constelação: GPS
+  Horário: 20.1h
+  VTEC: 14.24 TECU
+  S4: 0.207
+  Queda: 27.4%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #4
+  Constelação: GPS
+  Horário: 20.2h
+  VTEC: 14.53 TECU
+  S4: 0.222
+  Queda: 26.0%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #5
+  Constelação: GPS
+  Horário: 20.2h
+  VTEC: 14.43 TECU
+  S4: 0.222
+  Queda: 26.5%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #6
+  Constelação: GPS
+  Horário: 20.2h
+  VTEC: 14.09 TECU
+  S4: 0.207
+  Queda: 28.2%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #7
+  Constelação: GPS
+  Horário: 20.2h
+  VTEC: 13.88 TECU
+  S4: 0.207
+  Queda: 29.3%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #8
+  Constelação: GPS
+  Horário: 20.3h
+  VTEC: 14.59 TECU
+  S4: 0.219
+  Queda: 25.7%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #9
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 14.32 TECU
+  S4: 0.274
+  Queda: 27.1%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #10
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 13.79 TECU
+  S4: 0.274
+  Queda: 29.8%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #11
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 13.57 TECU
+  S4: 0.274
+  Queda: 30.9%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #12
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 13.51 TECU
+  S4: 0.267
+  Queda: 31.2%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #13
+  Constelação: GPS
+  Horário: 23.9h
+  VTEC: 13.63 TECU
+  S4: 0.274
+  Queda: 30.5%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #14
+  Constelação: GPS
+  Horário: 24.0h
+  VTEC: 13.72 TECU
+  S4: 0.274
+  Queda: 30.1%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #15
+  Constelação: GPS
+  Horário: 24.0h
+  VTEC: 13.35 TECU
+  S4: 0.274
+  Queda: 32.0%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
+Evento #16
+  Constelação: GPS
+  Horário: 0.0h
+  VTEC: 12.85 TECU
+  S4: 0.274
+  Queda: 34.5%
+  VTEC Médio Diário: 19.63 TECU
+----------------------------------------
