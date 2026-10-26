@@ -1,4 +1,4 @@
-# Identificação de Bolhas de Plasma Ionosféricas — 13 a 15/10/2023
+# Identificação de Bolhas de Plasma Ionosféricas — 13/10/2023 a 15/10/2023
 
 Análise de bolhas de plasma ionosféricas sobre a Paraíba a partir de medidas de receptores GNSS (ScintPi) instalados no campus da UFCG em Campina Grande.
 
